@@ -1,5 +1,6 @@
 # NFT-site
-Scrimba Frontend Developer Path project
+Scrimba Frontend Developer Path project:
+
 https://rad-pika-b99ed5.netlify.app/
 
 Topics covered: 
